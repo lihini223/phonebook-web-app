@@ -20,5 +20,5 @@ ConnectAI is a modern, beautiful AI-powered phonebook built with React and Vite.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/connect-ai.git](https://github.com/yourusername/connect-ai.git)
+   git clone [https://github.com/lihini223/phonebook-web-app.git](https://github.com/lihini223/phonebook-web-app.git)
    cd connect-ai
